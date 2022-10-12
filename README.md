@@ -6,10 +6,11 @@
 
 ### Link and Resources 
 
-1.[Stack overflow](https://stackoverflow.com/questions/24114676/git-error-failed-to-push-some-refs-to-remote)
 
 
-2.[gitignore](https://www.toptal.com/developers/gitignore)
+
+1.[gitignore](https://www.toptal.com/developers/gitignore)
+2.[__repr__](https://www.educative.io/answers/what-is-the-repr-method-in-python)
 
 
 ### Set up 
@@ -22,11 +23,11 @@
 
 ### Run the code 
 
-_*python madlib_cli.py*_
+_*python pythonic_garage_band.py*_
 
 ### Run test code 
 
-_*pytest /tests/test_madlib_cli.py
+_*pytest /tests/test_pythonic_garage_band.py
 
 ### PR link 
-[PR Link](https://github.com/Ashar121299/madlib-cli/pull/1)
+[PR Link !](https://github.com/Ashar121299/pythonic-garage-band/pull/1)
