@@ -10,7 +10,8 @@
 
 
 1.[gitignore](https://www.toptal.com/developers/gitignore)
-2.[__repr__](https://www.educative.io/answers/what-is-the-repr-method-in-python)
+
+2.[repr](https://www.educative.io/answers/what-is-the-repr-method-in-python)
 
 
 ### Set up 
